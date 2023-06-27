@@ -1,4 +1,6 @@
 THE COLOSSAL SOLUTIONS PORTFOLIO PROJECT
+
+
 The Colossal Solutions Portfolio Project which solution is targeted to educational challenges facing students and institutions which lack adequate teachers and quality teachers on certain topics they may find difficult. Now in most African countries or in Ghana for example there is a huge lacuna between students in the cities and schools in rural areas when it comes to education delivery.  Because of the demographics and developmental difficulties and challenges facing Ghana, Nigeria, Kenya and the rest of Africa, good and quality educational opportunities are centred around the big cities leaving the rural communities behind. Government is not able to solve these challenges on the go.
 The Colossal Solution project is dedicated to transforming the education system by embracing a digital approach. It offers a user-friendly platform where teachers can effortlessly upload school curriculum videos, fostering an inclusive learning environment for students from diverse backgrounds. By leveraging this initiative, every student gains equal access to valuable educational resources, regardless of their circumstances. This project envisions a future where digital tools and online connectivity dissolve educational barriers, empowering students to engage with curriculum content in interactive and immersive ways. The Colossal Solution project aspires to revolutionize education, transcending the limitations of traditional classrooms and providing every student with the opportunity to thrive and succeed academically, ushering them into a world of knowledge and possibilities.
 
@@ -15,6 +17,8 @@ The inclusion of a basic news feed enhances user engagement and facilitates info
 
  Include basic social interactions like liking or commenting on posts:
 Social interactions play a crucial role in fostering user engagement and creating a sense of community. By allowing users to like or comment on posts, the platform encourages collaboration, discussion, and feedback. Users can express appreciation for valuable content, initiate conversations, ask questions, and engage in meaningful interactions with other users, fostering a collaborative and supportive learning environment.
+
+
 Table of Content
 Environment
 Installation
@@ -35,6 +39,7 @@ Flask offers suggestions but doesn't enforce any dependencies or project layouts
 Bugs
 No known bugs at this time.
 Authors
+
 Maxwell Ahorlu 
            Quammy93@gmail.com
            Accra,Ghana
